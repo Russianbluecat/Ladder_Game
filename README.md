@@ -13,6 +13,8 @@ license: mit
 # 🎮 Interactive Ladder Game
 
 A fun interactive ladder game where you can input results one by one and watch the magic happen!
+사다리타기 게임을 웹으로 구현해보고 싶었어 
+Claude가 많이 코드에 기여해줬어. 내가 했지만 재밋따 
 
 ## ✨ Features
 
